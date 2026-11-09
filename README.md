@@ -15,6 +15,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nlxx14&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nlxx14/nlxx14/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nlxx14/nlxx14/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nlxx14/nlxx14/output/github-contribution-grid-snake.svg">
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
